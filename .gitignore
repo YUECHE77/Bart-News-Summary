@@ -1,0 +1,8 @@
+.idea/
+dataset/
+logs/
+pretrained_models/
+Randeng-Pegasus-523M-Chinese/
+results/
+bert4csc.ipynb
+main.py
